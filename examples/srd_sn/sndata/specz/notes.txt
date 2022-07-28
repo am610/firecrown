@@ -1,0 +1,19 @@
+Files from :
+/scratch/midway2/rkessler/PIPPIN_OUTPUT/PLASTICC_COMBINED/7_CREATE_COV/LSST_BINNED_COV_BBC_SIMDATA_SPECZ_1/output
+[RCC]
+-------------------------------
+HD : data.txt
+Covariance matrix : sys_0.txt
+
+
+
+COVOPTS:
+  0: ALL            XXXXX
+  1: NOSYS
+  2: ZSHIFT
+  3: ZERRSCALE
+  4: Photo_shift
+  5: MWEBV
+  6: Cal_ZP
+  7: Cal_wave
+  8: Cal

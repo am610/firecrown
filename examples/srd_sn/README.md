@@ -1,4 +1,4 @@
-# Firecrown_LOCAL
+## Firecrown SN: Demonstration
 
 Demonstration of SN focussed utilities. 2 Notebooks are present in this DIR. These results are based on runs in CORI, NERSC. Similar runs are also being prepared in RCC-Midway system. A starter pack for the Midway system is already prepared. 
 
